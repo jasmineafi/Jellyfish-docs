@@ -2,30 +2,21 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Jellyfish Guide",
-  description: "User Guide",
+  description: "User Guide for Jellyfish App",
+  // Hapus baris srcDir kalau ada, atau pastikan isinya kosong/titik
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Login', link: '/guide/login' },
-      { text: 'Navigasi', link: '/guide/navigasi' } // Tambahkan ini di menu atas
+      { text: 'Guide', link: '/guide/navigasi' }
     ],
     sidebar: [
       {
-        text: 'Panduan Penggunaan',
+        text: 'Panduan',
         items: [
-          { text: 'Pengenalan', link: '/' },
-          { text: 'Login ke Sistem', link: '/guide/login' },
-          { text: 'Navigasi Aplikasi', link: '/guide/navigasi' } // Tambahkan ini supaya tombol "Next" muncul
+          { text: 'Navigasi', link: '/guide/navigasi' },
+          { text: 'Login', link: '/guide/login' }
         ]
       }
-    ],
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/jasmineafi/Jellyfish-docs' } // Link ke repo kamu sendiri
-    ],
-    // Opsional: Ganti tulisan di tombol bawah
-    docFooter: {
-      prev: 'Sebelumnya',
-      next: 'Selanjutnya'
-    }
+    ]
   }
 })
