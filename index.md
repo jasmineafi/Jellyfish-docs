@@ -5,9 +5,6 @@ hero:
   name: "Jellyfish"
   text: "User Guide"
   tagline: Panduan lengkap untuk menggunakan aplikasi Jellyfish - Sistem manajemen proyek dan CRM terpadu.
-  image:
-    src: /logo.svg
-    alt: Jellyfish Logo
   actions:
     - theme: brand
       text: Mulai Sekarang
