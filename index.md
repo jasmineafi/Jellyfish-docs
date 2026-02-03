@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Mulai Sekarang
-      link: /guide/navigasi
+      link: /guide/pengenalan
     - theme: alt
       text: Lihat Modul
       link: /guide/login
