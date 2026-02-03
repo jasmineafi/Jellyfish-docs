@@ -6,8 +6,8 @@ Jellysfish adalah aplikasi manajemen proyek dan CRM (Customer Relationship Manag
 
 ## Panduan Cepat
 Ikuti langkah-langkah berikut untuk memulai:
-1. [Login ke Sistem](/guide/login.md) - Masuk ke aplikasi dengan akun Anda
-2. [Navigasi Aplikasi](/guide/navigasi.md) - Pelajari cara menavigasi menu dan fitur
+1. [Login ke Sistem](/guide/login) - Masuk ke aplikasi dengan akun Anda
+2. [Navigasi Aplikasi](/guide/navigasi) - Pelajari cara menavigasi menu dan fitur
 
 ## Fitur Utama
 | Fitur  |  Deskripsi |   
@@ -20,6 +20,5 @@ Ikuti langkah-langkah berikut untuk memulai:
 ## Langkah Selanjutnya
 Setelah membaca panduan ini, Anda bisa melanjutkan ke:
 
-* [Login ke Sistem](/guide/login.md) - Cara masuk ke aplikasi
-* [Navigasi Aplikasi](/guide/navigasi.md) - Memahami struktur menu
-* [Modul Aplikasi](/guide/modul.md) - Mempelajari fitur-fitur yang tersedia
+* [Login ke Sistem](/guide/login) - Cara masuk ke aplikasi
+* [Navigasi Aplikasi](/guide/navigasi) - Memahami struktur menu
