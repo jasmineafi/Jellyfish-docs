@@ -30,7 +30,7 @@ Halaman ini merupakan dashboard utama untuk memantau seluruh prospek.
 **Langkah-langkah:**
 1. Pilih menu **Sales Management** > sub-menu **Leads**.
 <center>
-  <img src="./assets/leadlist.png" width="700">
+  <img src="./assets/leadlist.png" width="600">
   <p><i>Gambar: Halaman Customer List</i></p>
 </center>
 
